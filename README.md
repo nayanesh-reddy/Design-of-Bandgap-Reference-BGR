@@ -28,9 +28,10 @@
 ## BGR with Cascode Current Mirror – 10 µA
 
 - Cascode current mirror is used to obtain nearly the same voltage on either side. 
+[ i.e., source voltage (Vs) of NM0 = 656.257mV, NM1 = 655.313mV (ΔV = 0.944mV), but in case of BGR without cascode current mirror the Vs of NM0 = 656.490mV, NM1 = 658.646mV (ΔV = 2.156mV). Therefore Cascoding reduces the ΔV ]
 - BGR has a PTAT slope of 1.696381mV / °C and a CTAT slope of -1.696375mV / °C.
 - The reference output voltage of BGR is 1.164V at 2.5 VDD (with a concave down curvature) w.r.t temperature (-40 °C to 120 °C).
-- The slope of the Reference output voltage of BGR w.r.t Supply voltage VDD is 7.37mV / V.
+- The slope of the Reference output voltage of BGR w.r.t Supply voltage VDD is 7.37mV / V. (reduction of slope by using cascode current mirror)
 <br />
 
 ![BGR_7](https://user-images.githubusercontent.com/84563214/179386930-7ff014f5-af84-4e95-b96c-ee92d5372467.png)
