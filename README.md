@@ -5,6 +5,8 @@
 - The reference output voltage of BGR is 1.164V at 2.5 VDD with a concave down curvature in w.r.t temperature (-40 °C to 120 °C).
 - The slope of the Reference output voltage of BGR w.r.t Supply voltage VDD is 7.37mV / V.
 
+<br />
+
 ## BGR with Current Mirror – 10 µA
 ![BGR_1](https://user-images.githubusercontent.com/84563214/179386770-4e62ce1c-cbf4-4c62-b35a-7120d67a5229.png)
 ![BGR_2](https://user-images.githubusercontent.com/84563214/179386905-8a483424-ab7e-48ed-8a8f-9159aed8512e.png)
@@ -18,6 +20,8 @@
 
 ### Reference voltage vs Supply voltage
 ![BGR_6](https://user-images.githubusercontent.com/84563214/179386923-43e396f4-81ad-4245-91d4-e852ab6f2d9c.png)
+
+<br /><br /><br /><br /><br />
 
 ## BGR with Cascode Current Mirror – 10 µA
 ![BGR_7](https://user-images.githubusercontent.com/84563214/179386930-7ff014f5-af84-4e95-b96c-ee92d5372467.png)
@@ -34,6 +38,8 @@
 
 ### Reference voltage vs Supply voltage
 ![BGR_14](https://user-images.githubusercontent.com/84563214/179386947-75a6b2c8-f37c-4869-bcef-721163ade2d5.png)
+
+<br /><br /><br /><br /><br />
 
 ## Comparison : Reference voltage (Cascode Current Mirror) & Reference voltage (Current Mirror) w.r.t Supply voltage 
 ![BGR_15](https://user-images.githubusercontent.com/84563214/179386950-7eebba55-ad0c-46d5-8ea8-9938a84b60cf.png)
