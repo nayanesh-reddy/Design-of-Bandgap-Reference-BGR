@@ -6,34 +6,35 @@
 - The slope of the Reference output voltage of BGR w.r.t Supply voltage VDD is 7.37mV / V.
 
 ## BGR with Current Mirror – 10 µA
-![image](https://user-images.githubusercontent.com/84563214/179386342-b4f4abd3-a984-467a-a091-fc939672950b.png)
-![image](https://user-images.githubusercontent.com/84563214/179386346-8e6d0dac-0a83-4ab9-b9a4-ea3d1b69562d.png)
+![BGR_1](https://user-images.githubusercontent.com/84563214/179386770-4e62ce1c-cbf4-4c62-b35a-7120d67a5229.png)
+![BGR_2](https://user-images.githubusercontent.com/84563214/179386905-8a483424-ab7e-48ed-8a8f-9159aed8512e.png)
 
 ### CTAT & PTAT
-![image](https://user-images.githubusercontent.com/84563214/179386356-dcb38904-ef08-4ad7-b972-870d13522e04.png)
+![BGR_3](https://user-images.githubusercontent.com/84563214/179386910-f570c2a5-fbd6-441d-84d8-ae945b707066.png)
 
 ### Reference voltage (Vref)
-![image](https://user-images.githubusercontent.com/84563214/179386366-5794cb09-e5df-4a80-b6a0-81833a7e2e8f.png)
-![image](https://user-images.githubusercontent.com/84563214/179386380-d62cb9d2-9d3f-433e-bdbd-2517d87bb26e.png)
+![BGR_4](https://user-images.githubusercontent.com/84563214/179386915-8829988a-5657-4d84-ab57-6867a43d0f26.png)
+![BGR_5](https://user-images.githubusercontent.com/84563214/179386918-2d3bf751-fb26-4c9a-92ea-8bfe74ca13ab.png)
 
 ### Reference voltage vs Supply voltage
-![image](https://user-images.githubusercontent.com/84563214/179386386-0c19c9d5-742d-49d6-bcbb-0cf833cda931.png)
+![BGR_6](https://user-images.githubusercontent.com/84563214/179386923-43e396f4-81ad-4245-91d4-e852ab6f2d9c.png)
 
 ## BGR with Cascode Current Mirror – 10 µA
-![image](https://user-images.githubusercontent.com/84563214/179386393-817b40fe-89b2-4922-935a-806919d68d46.png)
-![image](https://user-images.githubusercontent.com/84563214/179386408-b4a52865-7909-4b1d-9a20-51ad6c6576e4.png)
-![image](https://user-images.githubusercontent.com/84563214/179386411-a5aae016-7474-4e69-ac1c-5221cca37de0.png)
-![image](https://user-images.githubusercontent.com/84563214/179386413-3ad2da12-5a72-4b41-b6b5-e42943443566.png)
+![BGR_7](https://user-images.githubusercontent.com/84563214/179386930-7ff014f5-af84-4e95-b96c-ee92d5372467.png)
+![BGR_8](https://user-images.githubusercontent.com/84563214/179386931-55e33801-564e-4c94-a2f5-860ab8192d91.png)
+![BGR_9](https://user-images.githubusercontent.com/84563214/179386932-2eeac238-9189-4100-8489-38373a39658e.png)
+![BGR_10](https://user-images.githubusercontent.com/84563214/179386933-0dc34b77-ecf1-472b-8f5a-def5303a2c86.png)
 
 ### CTAT & PTAT
-![image](https://user-images.githubusercontent.com/84563214/179386419-a68a77f7-4565-459d-83e1-10e26bf2bb35.png)
+![BGR_11](https://user-images.githubusercontent.com/84563214/179386934-e95318e1-26bd-4dd8-8b8d-ed764b6c3765.png)
 
 ### Reference voltage (Vref)
-![image](https://user-images.githubusercontent.com/84563214/179386423-8d494337-69fe-4bd6-8eab-42faa8c26274.png)
-![image](https://user-images.githubusercontent.com/84563214/179386430-9ac8aca6-186a-41e7-8fcb-d168cacf2dac.png)
+![BGR_12](https://user-images.githubusercontent.com/84563214/179386937-805b5c50-9fc1-43e9-a56e-5e26151ec423.png)
+![BGR_13](https://user-images.githubusercontent.com/84563214/179386941-1d064f51-03ac-4757-8ff3-549d29c13ab0.png)
 
 ### Reference voltage vs Supply voltage
-![image](https://user-images.githubusercontent.com/84563214/179386434-cc4b2871-3228-49eb-91f4-91efb61c080a.png)
+![BGR_14](https://user-images.githubusercontent.com/84563214/179386947-75a6b2c8-f37c-4869-bcef-721163ade2d5.png)
 
 ## Comparison : Reference voltage (Cascode Current Mirror) & Reference voltage (Current Mirror) w.r.t Supply voltage 
-![image](https://user-images.githubusercontent.com/84563214/179386439-da67df68-26d7-4eb6-8f71-23a3324e0533.png)
+![BGR_15](https://user-images.githubusercontent.com/84563214/179386950-7eebba55-ad0c-46d5-8ea8-9938a84b60cf.png)
+
