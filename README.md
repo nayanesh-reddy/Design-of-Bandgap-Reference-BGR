@@ -1,7 +1,7 @@
 # Design of Bandgap Reference (BGR)
 - Cadence GPDK 90 nm technology is used and designed in Cadence Virtuoso.
 
-<br /><br />
+<br />
 
 ## BGR with Current Mirror – 10 µA
 
