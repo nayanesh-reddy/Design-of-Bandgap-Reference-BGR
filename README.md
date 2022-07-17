@@ -8,7 +8,7 @@
 <br />
 
 ## BGR with Current Mirror – 10 µA
-![BGR_1](https://user-images.githubusercontent.com/84563214/179386770-4e62ce1c-cbf4-4c62-b35a-7120d67a5229.png)
+![BGR_1](https://user-images.githubusercontent.com/84563214/179386770-4e62ce1c-cbf4-4c62-b35a-7120d67a5229.png) 
 ![BGR_2](https://user-images.githubusercontent.com/84563214/179386905-8a483424-ab7e-48ed-8a8f-9159aed8512e.png)
 
 ### CTAT & PTAT
