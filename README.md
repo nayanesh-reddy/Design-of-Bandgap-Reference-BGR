@@ -1,13 +1,15 @@
 # Design of Bandgap Reference (BGR)
 - Cadence GPDK 90 nm technology is used and designed in Cadence Virtuoso.
-- Cascode current mirror is used to obtain nearly the same voltage on either side. 
-- BGR has a PTAT slope of 1.696381mV / °C and a CTAT slope of 1.696375mV / °C.
-- The reference output voltage of BGR is 1.164V at 2.5 VDD with a concave down curvature in w.r.t temperature (-40 °C to 120 °C).
-- The slope of the Reference output voltage of BGR w.r.t Supply voltage VDD is 7.37mV / V.
 
-<br />
+<br /><br />
 
 ## BGR with Current Mirror – 10 µA
+
+- BGR has a PTAT slope of 1.703652mV / °C and a CTAT slope of -1.698179mV / °C.
+- The reference output voltage of BGR is 1.179V at 2.5 VDD w.r.t temperature (-40 °C to 120 °C).
+- The slope of the Reference output voltage of BGR w.r.t Supply voltage VDD is 83.71mV / V.
+<br />
+
 ![BGR_1](https://user-images.githubusercontent.com/84563214/179386770-4e62ce1c-cbf4-4c62-b35a-7120d67a5229.png) 
 ![BGR_2](https://user-images.githubusercontent.com/84563214/179386905-8a483424-ab7e-48ed-8a8f-9159aed8512e.png)
 
@@ -24,6 +26,13 @@
 <br /><br /><br /><br /><br />
 
 ## BGR with Cascode Current Mirror – 10 µA
+
+- Cascode current mirror is used to obtain nearly the same voltage on either side. 
+- BGR has a PTAT slope of 1.696381mV / °C and a CTAT slope of -1.696375mV / °C.
+- The reference output voltage of BGR is 1.164V at 2.5 VDD (with a concave down curvature) w.r.t temperature (-40 °C to 120 °C).
+- The slope of the Reference output voltage of BGR w.r.t Supply voltage VDD is 7.37mV / V.
+<br />
+
 ![BGR_7](https://user-images.githubusercontent.com/84563214/179386930-7ff014f5-af84-4e95-b96c-ee92d5372467.png)
 ![BGR_8](https://user-images.githubusercontent.com/84563214/179386931-55e33801-564e-4c94-a2f5-860ab8192d91.png)
 ![BGR_9](https://user-images.githubusercontent.com/84563214/179386932-2eeac238-9189-4100-8489-38373a39658e.png)
